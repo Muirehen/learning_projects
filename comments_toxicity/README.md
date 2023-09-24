@@ -1,5 +1,5 @@
 # Обучение модели классификации комментариев
-Рекомендуется смотреть проект через [NBviewer](https://nbviewer.jupyter.org/github/Muirehen/learning_projects/blob/master/comments_toxicity/comments_toxicity.ipynb).
+Рекомендуется смотреть проект через [NBViewer](https://nbviewer.jupyter.org/github/Muirehen/learning_projects/blob/master/comments_toxicity/comments_toxicity.ipynb).
 
 Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
 
