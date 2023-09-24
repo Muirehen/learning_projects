@@ -1,5 +1,5 @@
 # Исследование технологического процесса очистки золота
-Рекомендуется смотреть проект через [NBViewer](https://nbviewer.jupyter.org/github/Muirehen/learning_projects/blob/master/gold_prediction/gold_prediction.ipynb?flush_cache=false).
+Рекомендуется смотреть проект через [NBViewer](https://nbviewer.jupyter.org/github/Muirehen/learning_projects/blob/master/gold_prediction/gold_prediction.ipynb?flush_cache=true).
 
 Компания «Цифра» разрабатывает решения для эффективной работы промышленных предприятий. Чтобы оптимизировать производство и не запускать предприятие с убыточными характеристиками, необходим инструмент для оценки коэффициента восстановления золота из золотосодержащей руды.
 
