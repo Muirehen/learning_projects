@@ -1,5 +1,5 @@
 # Построение модели определения стоимости автомобиля
-Рекомендуется смотреть проект через [NBViewer](https://nbviewer.jupyter.org/github/Muirehen/learning_projects/blob/master/price_prediction/price_prediction.ipynb?flush_cache=false).
+Рекомендуется смотреть проект через [NBViewer](https://nbviewer.jupyter.org/github/Muirehen/learning_projects/blob/master/price_prediction/price_prediction.ipynb?flush_cache=true).
 
 Сервис по продаже автомобилей с пробегом  разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля.
 
